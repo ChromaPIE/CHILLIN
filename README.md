@@ -36,7 +36,14 @@
 - When all the mods have published their releases for the next Minecraft version, we'll go forward too. If Fabric was slain by Quilt someday, we'll cheat on her too.
 - The world won't look good if [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined) is not a thing. The config profile I use is also in the shaderpacks folder and you can make it look even better by turning options like rain puddles on (but not emissive ores! there are already resourcepacks doing the job and it looks way nicer), depending on your device.
 
-## For fellas, especially from China
+## Current issues
+The following are some known issues. Don't report unless you've figured out what is the cause.
+- Physics Mod adds a button to its config screen to the pause menu, which makes a conflict with the volume sliders ClientTweaks adds to the pause menu that is overlapping, causing inconvenience both when clicking the Physics config button and adjusting the sliders. I've temporarily disabled the volume sliders until [the issue](https://github.com/TwelveIterationMods/ClientTweaks/issues/64) got fixed.
+- Crash at very small chance, might be caused by Model Gap Fix. I've already replaced the mod with its alt Item Model Fix, hopefully it's no longer happening.
+- The chain model for the lanterns to cling to surfaces became invisible at some point when a certain mod was included. I can't remember when it happened, I do not know which mod is to be blamed, I have zero idea why. I'm trying my best not to look straight at them cuz they look so fudging goofy.
+- [This god damn issue](https://github.com/xiaocihua/stack-to-nearby-chests/issues/11). The temp solution was taken: disabling the buttons and turn to hotkeys for Stack To Nearby Chest to function.
+
+## For fellas from China
 - I stream on [Bilibili](http://live.bilibili.com/354585), not Twitch cuz it costs my entire bank account for a streaming-friendly proxy service. If there's no modpack that I like to mess around with I stream CHILLIN. I like chatting with chat but I'm no influencer, no one watches me streaming, so I don't talk much to a blank chat, so it might make you feel sleepy right away.
 - The modpack has a language called 简体中文（Scratchery） built in. Scratchery is my very own locale project for mods in the modpacks I made to create a seamless and qualified experience for Simplified Chinese. Officially provided locales for zh_cn aren't always good and the ecosystem of CFPA nowadays is hilariously cringe so I decided to make my own. It's just to let you know. You can taste it by switching to the Scratchery language in the options, or let it overlap upon the official or CFPA one using the modified language selection screen, provided by Language Reload mod. However the default language will be en_us as always. Be adviced that Scratchery is being worked on slowly. Take it as nothing but a wishful thinking.
 
