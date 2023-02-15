@@ -30,7 +30,8 @@
 - Taxes. Cuz Form 1040 mod is yet to be for Fabric. You Fabric simps are lucky.
 - Modern Industrialization. Stop being addicted to GregTech. Actually this modpack is great for GregTech nerds bc least it's more similar to what the real world looks like. It might help you outta that.
 - CraftTweaker/KubeJS/.... I don't want my Crafting Table to be made out of two dragon's heads and you do not too. Welp I have simply lost interest on coding on ZenScript or shit. The modpack's name CHILLIN doesn't just mean you should be chilling. I've *been chilling* putting pieces together too. Maybe later but just for enhancing the compat between mods.
-- Quests or anything guiding. This is planned. I might make a guidebook using Modonomicon (Seems like a great mod. Go check it out.) and lead you in a trip through all mods that tweaks/provides new content to the modpack.
+- A complete quest line or anything guiding. This is under construction as you can see. I might make some quests with FTB Quests and lead you in a brief trip through all mods that tweaks/provides new content to the modpack.
+- A fancy loading screen/main menu. It doesn't seem to be possible cuz mods that do the job severely conflict with some mods that I don't want to exclude from the list. Anyway I still wanna change the MINECRAFT logo and the panorama in the future.
 
 ## Oh, and,
 - The modpack is heavily in progress but I'll try my best not to corrupt your saves bc I'm not at all an author, I'm just sharing the modpack I be chilling with. I play and i modify it.
@@ -40,9 +41,10 @@
 
 ## Current issues
 The following are some known issues. Don't report unless you've figured out what is the cause.
-- Crash at very small chance, might be caused by Model Gap Fix. I've already replaced the mod with its alt Item Model Fix, hopefully it's no longer happening.
+- Crash at very small chance, might be caused by Model Gap Fix. I've already replaced the mod with its alt Item Model Fix and the crash seems to be expelled for good.
 - The chain model for the lanterns to cling to surfaces became invisible at some point when a certain mod was included. I can't remember when it happened, I do not know which mod is to be blamed, I have zero idea why. I'm trying my best not to look straight at them cuz they look so fudging goofy.
 - [This god damn issue](https://github.com/xiaocihua/stack-to-nearby-chests/issues/11). The temp solution was taken: disabling the buttons and turn to hotkeys for Stack To Nearby Chest to function.
+- Sound played on breaking leave blocks/grass is too quiet/broken.
 
 ## For fellas from China
 - I stream on [Bilibili](http://live.bilibili.com/354585), not Twitch cuz it costs my entire bank account for a streaming-friendly proxy service. If there's no modpack that I like to mess around with I stream CHILLIN. I like chatting with chat but I'm no influencer, no one watches me streaming, so I don't talk much to a blank chat, so it might make you feel sleepy right away.
